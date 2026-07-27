@@ -187,7 +187,9 @@ class ZipUnzipGUI(tk.Tk):
             'Channel 1 Current Reynolds Number': 'C83',
             'Channel 2 Current Reynolds Number': 'D83',
             'Channel 1 Current Reynolds K Factor': 'C84',
-            'Channel 2 Current Reynolds K Factor': 'D84'
+            'Channel 2 Current Reynolds K Factor': 'D84',
+            'Channel 1 Current Correction Factor': 'C85',
+            'Channel 2 Current Correction Factor': 'D85'
         }
 
         try:
