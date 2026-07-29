@@ -1,4 +1,4 @@
-('C:\\Users\\devikau\\Downloads\\Primary_Measurement_V1\\build\\zipunzip_V4.0\\PYZ-00.pyz',
+('C:\\Users\\devikau\\Downloads\\Primary_Meaurement_V4.0\\Primary_Measurement_V1\\build\\zipunzip_V4.0\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\devikau\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
